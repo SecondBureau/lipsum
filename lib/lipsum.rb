@@ -159,7 +159,7 @@ private
         def chinese_words
           space = "&#12288;"
           comma = "&#12289;"
-          full_stop = "&#12290"
+          full_stop = "&#12290;"
           length = 0
           text = ''
           while length < @options[:words]
